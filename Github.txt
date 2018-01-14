@@ -1,0 +1,6 @@
+//Прописать 
+git clone https:// ... ... ... ...
+//После клонирования репозитория
+git add . 
+git commit -m"add files"
+git push -u origin master
